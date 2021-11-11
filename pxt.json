@@ -1,0 +1,30 @@
+{
+    "name": "tile dungeon",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.1",
+        "tilemaps": "github:microsoft/pxt-tilemaps#v1.12.0",
+        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.2.4",
+        "arcade-text": "github:pelikhan/arcade-image-text#v0.0.4"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.6.24",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
