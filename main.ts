@@ -64,13 +64,13 @@ let statusbar3: StatusBarSprite = null
 let statusbar: StatusBarSprite = null
 let ffddfdgd: Sprite = null
 ffddfdgd = sprites.create(img`
+    . . . . . . . . . . . . . . . . 
     . . . . f f f f f f f . . . . . 
     . . . f 5 5 5 5 5 5 5 f . . . . 
     . . f 5 5 f d d d f d f . . . . 
     . . . f f d d d d d d f . . . . 
     . . . . f d f f f d d f . . . . 
     . . . . f d d d d d d f . . . . 
-    . . . . . f f f f f f . . . . . 
     d . . f f f f 5 5 f f f f . . d 
     d d d f e e f 9 e f e e f d d d 
     d . . f f f f e 9 f f f f . . d 
